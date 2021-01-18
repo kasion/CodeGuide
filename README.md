@@ -226,8 +226,6 @@ function foo(a, b, c, d) {
     name 一定是开发者的中文姓名，方便查看和管理。
 ```
 
-## 编辑器配置和构建检查 (参照[alloyteam](http://alloyteam.github.io/CodeGuide/#project-naming))
-
 
 ## 备注
 - 版本：v1.0.0
